@@ -1,0 +1,271 @@
+{
+  "event_id": "a6eae1a0-af86-4a19-a6f1-60515f2686da",
+  "source_id": "cc4a1444-9b8c-4e1a-b8f7-8a08fb185e35",
+  "set": "Poetry Reading 5, 1994 October 1, Tape 1 [FF0028] [Index]",
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 48,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b7791f9-3b2b-49ec-a24f-6bbd3ddd395e"
+    },
+    {
+      "start_time": 15,
+      "end_time": 48,
+      "annotation": [
+        {
+          "text": "Sybil Kein plays guitar and sings \"Jumbalaya\""
+        }
+      ],
+      "tags": [],
+      "uuid": "729da1c5-d477-45e8-93a1-97ce0ebcb843"
+    },
+    {
+      "start_time": 48,
+      "end_time": 294,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "19ecdcf9-4063-4986-ac4e-c8ba3199ac33"
+    },
+    {
+      "start_time": 48,
+      "end_time": 294,
+      "annotation": [
+        {
+          "text": "Dead air"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3411331-ec2a-4da4-8ae1-a31743fe900e"
+    },
+    {
+      "start_time": 294,
+      "end_time": 350,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ec9d591-e679-4d9e-bc72-a24458fe12d3"
+    },
+    {
+      "start_time": 294,
+      "end_time": 350,
+      "annotation": [
+        {
+          "text": "Eugene Redmond speaks (bad video quality)"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5f8bd0c-1d75-4076-a7c5-b22bcbccf2d8"
+    },
+    {
+      "start_time": 350,
+      "end_time": 465,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "c730ad9e-3ef2-4c0c-9e67-3c2fdce47b37"
+    },
+    {
+      "start_time": 350,
+      "end_time": 465,
+      "annotation": [
+        {
+          "text": "Redmond reads \"Funky Grace\" by Joseph Harrison"
+        }
+      ],
+      "tags": [],
+      "uuid": "df595599-dd0a-4d6f-9e4d-fe49032d54b4"
+    },
+    {
+      "start_time": 465,
+      "end_time": 515,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "145f60fe-ad34-4beb-a2f4-84b22ae6e445"
+    },
+    {
+      "start_time": 465,
+      "end_time": 515,
+      "annotation": [
+        {
+          "text": "Jacqueline Brice-Finch speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d57b647-2111-4a94-9cef-24d69bc46664"
+    },
+    {
+      "start_time": 515,
+      "end_time": 608,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb926e2e-01ae-4632-bd03-a408958fa7fd"
+    },
+    {
+      "start_time": 515,
+      "end_time": 608,
+      "annotation": [
+        {
+          "text": "Brice-Finch reads \"Ascension\""
+        }
+      ],
+      "tags": [],
+      "uuid": "143fd03d-1be5-42cd-8e7f-989edec9e1a3"
+    },
+    {
+      "start_time": 608,
+      "end_time": 800,
+      "annotation": [
+        {
+          "text": "7"
+        }
+      ],
+      "tags": [],
+      "uuid": "ddc984ff-a453-4190-a707-d39ce5c90d2b"
+    },
+    {
+      "start_time": 608,
+      "end_time": 800,
+      "annotation": [
+        {
+          "text": "Brice-Finch reads \"Food for Thought\""
+        }
+      ],
+      "tags": [],
+      "uuid": "3fe831f7-9079-4863-861b-be0dcdf1e71d"
+    },
+    {
+      "start_time": 800,
+      "end_time": 880,
+      "annotation": [
+        {
+          "text": "8"
+        }
+      ],
+      "tags": [],
+      "uuid": "f608ace1-34cb-4a8c-9003-4ce4d0c8853c"
+    },
+    {
+      "start_time": 800,
+      "end_time": 880,
+      "annotation": [
+        {
+          "text": "Brice-Finch reads \"Take Note\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c74efb1d-d6eb-41d7-b9bf-b42b3ba5d933"
+    },
+    {
+      "start_time": 880,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "text": "9"
+        }
+      ],
+      "tags": [],
+      "uuid": "57b81acb-373b-417c-8f0f-1ff8b70368a5"
+    },
+    {
+      "start_time": 880,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "text": "Gwen Butler reads"
+        }
+      ],
+      "tags": [],
+      "uuid": "6585eda8-9a2e-4e1a-9320-681e8515ae5a"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 2202,
+      "annotation": [
+        {
+          "text": "10"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4854f2a-c597-4a11-ad8d-68d65eccbd9c"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 2202,
+      "annotation": [
+        {
+          "text": "Kalamu ya Salaam reads"
+        }
+      ],
+      "tags": [],
+      "uuid": "5159071e-d06a-4e7f-902a-2468a51cf64e"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 3128,
+      "annotation": [
+        {
+          "text": "11"
+        }
+      ],
+      "tags": [],
+      "uuid": "54faf061-2f2e-4fd9-a8d1-6d94e71ce4be"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 3128,
+      "annotation": [
+        {
+          "text": "Jeannette Drake reads"
+        }
+      ],
+      "tags": [],
+      "uuid": "79581cfc-0326-48f8-b419-217a9e3fdf88"
+    },
+    {
+      "start_time": 3128,
+      "end_time": 3544,
+      "annotation": [
+        {
+          "text": "12"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6da8ad5-d50f-4886-bd46-1cf09449183c"
+    },
+    {
+      "start_time": 3128,
+      "end_time": 3544,
+      "annotation": [
+        {
+          "text": "Kein sings and plays guitar, then reads"
+        }
+      ],
+      "tags": [],
+      "uuid": "f44f5300-a330-46a8-987b-9f7fdebb2ce3"
+    }
+  ]
+}

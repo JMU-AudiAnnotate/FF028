@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "cc4a1444-9b8c-4e1a-b8f7-8a08fb185e35": {
+      "label": "",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/218/042/original/open-uri20231129-477-hc94a9.mp4?1701269754",
+      "duration": 3544.83
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Poetry Readings by Jacqueline Brice-Finch, Gwen Butler, Kalamu ya Salaam, Jeannette Drake, Sybil Kein, Adam David Miller, Brenda Marie Osbey, Fabu Carter, Ester Iverem, and Mona Lisa Saloy at the 1994 Furious Flower Conference. The Poetry Reading was held at Grafton-Stovall Theatre, James Madison University on Saturday, October 1, 1994 at 2 p.m. This footage was originally recorded on 2 MII videocassettes."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-18T13:48:05.361Z",
+  "created_by": "JMU-AudiAnnotate",
+  "item_type": "Video",
+  "label": "Imported Event 1",
+  "updated_at": "2024-10-18T13:48:05.361Z",
+  "updated_by": "JMU-AudiAnnotate"
+}

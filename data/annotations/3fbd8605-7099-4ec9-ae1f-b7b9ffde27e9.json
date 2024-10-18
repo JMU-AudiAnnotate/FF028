@@ -1,0 +1,249 @@
+{
+  "event_id": "2c327fa5-b416-4b03-b7e2-1e0275a6132e",
+  "source_id": "88044fc7-4cc4-487e-ad8c-8d3643c6cb7b",
+  "set": "Poetry Reading 5, 1994 October 1, Tape 2 [FF0036] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 533,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2bdca38-8a45-4e90-8a5e-85efc214808c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 533,
+      "annotation": [
+        {
+          "text": "Video begins in the middle of Sybil Kein speaking"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e6e43d0-2032-459b-a9c6-463b13e10dcd"
+    },
+    {
+      "start_time": 533,
+      "end_time": 637,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c2b72c9-5743-4a12-878e-8ae3db02f50a"
+    },
+    {
+      "start_time": 533,
+      "end_time": 637,
+      "annotation": [
+        {
+          "text": "Eugene Redmond speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "01dbffee-1a69-42a0-a828-5ba088bcc60e"
+    },
+    {
+      "start_time": 637,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "75851af1-1c9d-4aa4-9714-14af85839285"
+    },
+    {
+      "start_time": 637,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "text": "Adam David Miller speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "813bb744-5cf1-4e39-9f75-0a5e2a33413c"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1491,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "8fe5a687-d0cb-4bb7-b649-1e19907414d3"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1491,
+      "annotation": [
+        {
+          "text": "Redmond introduces Brenda Marie Osbey"
+        }
+      ],
+      "tags": [],
+      "uuid": "44aad7ee-0b89-41a0-9ff4-980947ff9004"
+    },
+    {
+      "start_time": 1491,
+      "end_time": 2265,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca5797fb-e83e-45c4-8765-1d1a24f17b3e"
+    },
+    {
+      "start_time": 1491,
+      "end_time": 2265,
+      "annotation": [
+        {
+          "text": "Osbey speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ecfe954-3b8f-4036-8637-e4c409340653"
+    },
+    {
+      "start_time": 2265,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "7531b380-4d90-45de-bb37-e07fe4f5f172"
+    },
+    {
+      "start_time": 2265,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "text": "Redmond introduces Fabu Carter"
+        }
+      ],
+      "tags": [],
+      "uuid": "45144f6a-8e11-4e88-a93a-0f5251683b3d"
+    },
+    {
+      "start_time": 2362,
+      "end_time": 2806,
+      "annotation": [
+        {
+          "text": "7"
+        }
+      ],
+      "tags": [],
+      "uuid": "10cd7025-97c1-40e5-89e0-96b0dd27592f"
+    },
+    {
+      "start_time": 2362,
+      "end_time": 2806,
+      "annotation": [
+        {
+          "text": "Carter speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "d5fa5874-079f-471a-864e-a8a53406dc20"
+    },
+    {
+      "start_time": 2806,
+      "end_time": 2865,
+      "annotation": [
+        {
+          "text": "8"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3b6586e-2905-4ab4-bb62-eb3c6892fd35"
+    },
+    {
+      "start_time": 2806,
+      "end_time": 2865,
+      "annotation": [
+        {
+          "text": "Redmond introduces Esther Iverem"
+        }
+      ],
+      "tags": [],
+      "uuid": "97dcf828-8335-4957-b187-972c967e9ac3"
+    },
+    {
+      "start_time": 2865,
+      "end_time": 3215,
+      "annotation": [
+        {
+          "text": "9"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5a03156-0231-40c4-813c-3aa184f284d5"
+    },
+    {
+      "start_time": 2865,
+      "end_time": 3215,
+      "annotation": [
+        {
+          "text": "Esther Iverem speaks and sings"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf3154af-6db7-4f2a-bc03-bcc80744e3fc"
+    },
+    {
+      "start_time": 3215,
+      "end_time": 3250,
+      "annotation": [
+        {
+          "text": "10"
+        }
+      ],
+      "tags": [],
+      "uuid": "ebe4f8b3-fa8d-4fdb-a0af-d4f804f7f2cb"
+    },
+    {
+      "start_time": 3215,
+      "end_time": 3250,
+      "annotation": [
+        {
+          "text": "Redmond introduces Mona Lisa Saloy"
+        }
+      ],
+      "tags": [],
+      "uuid": "3779c6fb-de11-4894-a21a-6ddd5373d244"
+    },
+    {
+      "start_time": 3250,
+      "end_time": 3629,
+      "annotation": [
+        {
+          "text": "11"
+        }
+      ],
+      "tags": [],
+      "uuid": "1f0c9d34-49db-402f-be72-83b06f602b0a"
+    },
+    {
+      "start_time": 3250,
+      "end_time": 3629,
+      "annotation": [
+        {
+          "text": "Saloy speaks; video cuts out while Saloy is speaking"
+        }
+      ],
+      "tags": [],
+      "uuid": "06c8bbe5-b309-4df4-93d6-3cf071c1dfb6"
+    }
+  ]
+}
