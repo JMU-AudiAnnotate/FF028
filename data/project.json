@@ -15,12 +15,21 @@
     "authors": "Furious Flower Poetry Center",
     "media_player": "aviary",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2024-10-18T13:44:40.432Z",
-    "updated_at": "2024-10-18T13:44:40.432Z"
-  }
+    "updated_at": "2025-02-19T14:13:29.890Z",
+    "generate_pages_site": true,
+    "is_private": false
+  },
+  "is_private": false
 }
